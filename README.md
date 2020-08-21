@@ -1,5 +1,5 @@
 # DSA-using-C
-This repository contains complete Data Structures and Algorithms implementation has been done using C Language.
+This repository contains complete Data Structures and Algorithms implementation using C Language.
 
 A computer program is a collection of instructions to perform a specific task. For this, a computer program may need to store data, retrieve data, and perform computations on the data.
 
